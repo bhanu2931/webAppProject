@@ -40,5 +40,3 @@ This project demonstrates Git branching and merging concepts.
 
 All feature branches were successfully merged into the main branch.
 
-
-
